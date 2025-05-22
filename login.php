@@ -2,7 +2,7 @@
 // Vérifie si le formulaire a été soumis via la méthode POST
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Récupère et nettoie les données du formulaire
-    $username = htmlspecialchars(trim($_POST["username"]));  // Adresse e-mail ou numéro de téléphone
+    $username = htmlspecialchars(trim($_POST["email"]));  // Adresse e-mail ou numéro de téléphone
     $password = htmlspecialchars(trim($_POST["password"]));  // Mot de passe
 
     // Vérifie si les champs ne sont pas vides
