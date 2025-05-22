@@ -108,7 +108,7 @@ echo "   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚�
 echo "=========================================="
 echo -e "\033[0m"
 echo "=========================================="
-echo "          KATABUM PHISHING"
+echo "        🇨🇩  NETFLIX PHISHING"
 echo "=========================================="
 echo -e "${JAUNE}1. passer à l'attaque${NC}"
 echo -e "${JAUNE}2. Rejoindre notre canal Telegram${NC}"
